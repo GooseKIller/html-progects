@@ -1,0 +1,33 @@
+
+.page{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    font-family:sans-serif;
+}
+h1{
+    font-size: 32px;
+}
+ol,h1,h2,h3{
+    text-align:left;
+}
+table,tr,th,td{
+    text-align:center;
+    border-spacing: 0 0px;
+    border: 1px solid rgb(0, 0, 0);
+    width: 500px;
+    font-weight: bold;
+}
+
+.sign{
+    float: right;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: none;
+}
+.sign p{
+    text-decoration: underline;
+    margin: 0 auto 5px;
+}
